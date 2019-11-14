@@ -18,7 +18,7 @@ import com.example.mvvmpatterneg.vo.Status;
 public class MainActivity extends AppCompatActivity {
 
     GetAllInfoFactoryModel factoryModel;
-    public GetAllInfoViewModel getAllInfoViewModel;
+    public GetAllInfoViewModel getAllInfoViewModel;// changed
     private static final String TAG = "MainActivity";
 
     @Override
