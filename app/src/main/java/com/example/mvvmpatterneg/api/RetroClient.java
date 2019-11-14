@@ -12,7 +12,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetroClient {
 
-    private static final String ROOT_URL = "http://kbg.brainmagicllc.com/";
+    private static final String ROOT_URL = "";
 
     private static OkHttpClient okClient() {
         return new OkHttpClient.Builder()
