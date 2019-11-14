@@ -1,4 +1,4 @@
-package com.example.mvvmpatterneg.viewmodel;
+package com.example.mvvmpatterneg.ui.viewmodel;
 
 import com.example.mvvmpatterneg.model.GetAllInfoDetail;
 import com.example.mvvmpatterneg.repository.GetAllInfoRepo;

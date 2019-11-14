@@ -1,7 +1,7 @@
-package com.example.mvvmpatterneg.viewmodel.factorymodel;
+package com.example.mvvmpatterneg.ui.viewmodel.factorymodel;
 
 import com.example.mvvmpatterneg.repository.GetAllInfoRepo;
-import com.example.mvvmpatterneg.viewmodel.GetAllInfoViewModel;
+import com.example.mvvmpatterneg.ui.viewmodel.GetAllInfoViewModel;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.ViewModel;
